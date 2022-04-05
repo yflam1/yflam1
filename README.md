@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I am Year 1 student in CUHK majoring artificial intelligence (AIST).
+I like coding and watching anime.
+
 <!--
 **yflam1/yflam1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
