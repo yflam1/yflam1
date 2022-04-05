@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 I am Year 1 student in CUHK majoring artificial intelligence (AIST).
+
 I like coding and watching anime.
 
 <!--
