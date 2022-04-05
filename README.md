@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-I am Year 1 student in CUHK majoring artificial intelligence (AIST).
+I am a Year 1 student studying in CUHK with Artificial Intelligence (AIST) as my major. I would also like to take Japanese Language as my minor.
 
-I like coding and watching anime.
+I am most interested in NLP in the field of AI 🧠.
+
+I like coding and watching anime in my spare time.
 
 <!--
 **yflam1/yflam1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
