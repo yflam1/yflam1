@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Year 1 student studying in CUHK with Artificial Intelligence (AIST) as my major. I would also like to take Japanese Language as my minor.
+I am a Year 2 student studying Artificial Intelligence (AIST) in CUHK. I would also like to take Japanese Language as my minor.
 
 I am most interested in NLP in the field of AI 🧠.
 
